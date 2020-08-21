@@ -1,0 +1,24 @@
+body {
+    background-color: bisque;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-style: italic;
+}
+
+.main-heading {
+    background-color: lightskyblue;
+    padding: 30px;
+    margin: 15px;
+    border: 1px solid black;
+    border-radius: 12px;
+}
+
+.centered {
+    text-align: center;
+    background-color: brown;
+
+
+}  
+#subtitle{color:yellow;}
