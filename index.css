@@ -1,0 +1,20 @@
+body {
+  background-color: bisque;
+  font-family: "Roboto", sans-serif;
+}
+
+.main-heading {
+  background-color: lightskyblue;
+  padding: 40px;
+  margin: 14px;
+  border: 20px solid black;
+  border-radius: 20px;
+}
+
+.centered {
+  text-align: center;
+  background-color: brown;
+}
+#subtitle {
+  color: yellow;
+}
